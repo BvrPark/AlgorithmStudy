@@ -1,3 +1,6 @@
+out/
+
+
 # Default ignored files
 /shelf/
 /*.xml
@@ -7,4 +10,4 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-out/
+
