@@ -1,4 +1,4 @@
-package DP와분할정복;
+package DP와분할정복.DynamicProgramming;
 
 public class Dynamic {
     public int dynamicFuc(int n) {
