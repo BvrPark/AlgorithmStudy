@@ -14,7 +14,7 @@ public class MergeSort_1 {
         ArrayList<Integer> right = new ArrayList<Integer>();
 
         left = new ArrayList<Integer>(data.subList(0,half));
-        left = new ArrayList<Integer>(data.subList(half,data.size()));
+        right = new ArrayList<Integer>(data.subList(half,data.size()));
 
         System.out.println(left);
         System.out.println(right);
